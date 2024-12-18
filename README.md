@@ -14,10 +14,10 @@ Notebooks were often used as scratch. Paper may include more readable results an
 This project was completed for SENG 474 at UVic
 
 # Files
-ImageClassifier.ipynb: Baseline CNN, and some initial visualizations of CIFAR-10
-FGSM.ipynb: Generating adversarial examples with Fast Gradient Sign Method, and applying it to the baseline model
-AdversarialTraining.ipynb: Using 2 variations of adversarial training to create new, more robust models. Visualizations with confusion matrices
-DefensiveDistillation.ipynb: Implemented defensive distillation, and a variation as described in the included paper.
-Visualizations.ipynb: Generated visualizations for use in the included paper
+ImageClassifier.ipynb: Baseline CNN, and some initial visualizations of CIFAR-10  
+FGSM.ipynb: Generating adversarial examples with Fast Gradient Sign Method, and applying it to the baseline model  
+AdversarialTraining.ipynb: Using 2 variations of adversarial training to create new, more robust models. Visualizations with confusion matrices  
+DefensiveDistillation.ipynb: Implemented defensive distillation, and a variation as described in the included paper.  
+Visualizations.ipynb: Generated visualizations for use in the included paper  
 AdversarialExamples.py: Aggregation of methods from above notebooks to simplify subsequent notebooks.
 
